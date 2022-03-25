@@ -1,2 +1,1 @@
-# html-include.github.io
-&lt;include-html src="..."> Web Component
+# See: [include-html.github.io](include-html.github.io)
